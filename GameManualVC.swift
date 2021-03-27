@@ -21,6 +21,9 @@ class GameManualVC: UIViewController {
         
         nextBtn.setTitle("다음", for: .normal)
         nextBtn.titleLabel!.font = UIFont(name: "GodoM", size: 20)!
+        
+        
+        //ddd
     }
     
     @IBAction func nextBtnTap(_ sender: Any) {
